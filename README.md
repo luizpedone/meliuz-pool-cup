@@ -1,3 +1,3 @@
 # Copa Méliuz de Sinuca
 
-- Primeira Edição
+- [Primeira Edição](https://github.com/luizpedone/meliuz-pool-cup/blob/master/cup-2015-05-21.md)
